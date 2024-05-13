@@ -1,1 +1,2 @@
 # web-scrapper-crawler
+> To provide support for web-scrapper project which is able to scrape all the link, sublinks and child liks of sublinks, mean it is able to dig n level of nesting while scraping the webpage.
